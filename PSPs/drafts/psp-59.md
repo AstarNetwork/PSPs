@@ -1,6 +1,6 @@
 # Title
 
-- **PSP Number: 57**
+- **PSP Number: 59**
 - **Authors:** Shunsuke Watanabe (Github: @shunsukew)
 - **Status:** Draft
 - **Created:** 2023-04-03
@@ -34,7 +34,7 @@ Quotes
 
 ### Workflow
 
-![](/src/psp-57/workflow.jpg)
+![](/src/psp-59/workflow.jpg)
 
 
 ### Extract Transaction Signer's AccountId
